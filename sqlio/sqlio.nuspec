@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2011/08/nuspec.xsd">
+    <metadata>
+        <id>sqlio</id>
+        <version>1.0</version>
+        <title>sqlio</title>
+        <authors>Ronan Gibney</authors>
+        <owners>Ronan Gibney</owners>
+        <licenseUrl>http://www.microsoft.com/en-us/download/details.aspx?id=20163</licenseUrl>
+        <projectUrl>http://www.microsoft.com/en-us/download/details.aspx?id=20163</projectUrl>
+        <iconUrl>https://github.com/ronnieDrew/ChocolateyPackages/raw/master/sqlio/sqlio.png</iconUrl>
+        <requireLicenseAcceptance>true</requireLicenseAcceptance>
+        <description>SQLIO is a tool provided by Microsoft which can also be used to determine the I/O capacity of a given configuration. SQLIO is provided ‘as is’ and there is no support offered for any problems encountered when using the tool. Please refer to the EULA.doc for the license agreement prior to using this tool.</description>
+        <summary>SQLIO is a tool provided by Microsoft which can also be used to determine the I/O capacity of a given configuration.</summary>
+        <releaseNotes>http://www.microsoft.com/en-us/download/details.aspx?id=20163</releaseNotes>
+        <tags>sqlio</tags>
+    </metadata>
+</package>
